@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 100);
 });
 
-// ===== UTILIDADES =====
+// ===== UTILIDADES ====
 // Función para copiar email al portapapeles (opcional)
 function copyEmail(email) {
     if (navigator.clipboard) {
